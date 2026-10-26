@@ -40,7 +40,7 @@
 | **Primary base stamp** | PRECISION MADE BY PARK INDUSTRIES, MURFREESBORO, TENN. U.S.A. |
 | **Obverse marking** | Class 65-9WA / Hughes World Leader helicopter insignia |
 | **Reverse inscription** | PRESENTED TO WOC Arthur P. Lancy, Jr. / MEMBER, FIRST GRADUATING CLASS USING HUGHES TH-55A HELICOPTER / U.S. ARMY PRIMARY HELICOPTER TRAINING SCHOOL / FORT WOLTERS, TEXAS / 1965 |
-| **Insert marking** | CLASS 65-9WA reported on removable insert side; **not photographed in current archive set** |
+| **Insert marking** | Maker and location only (Park Industries, Murfreesboro, Tennessee); no class marking on the insert — Class 65-9WA is on the obverse |
 | **Condition** | Lid opens cleanly; hinge firm; striker wheel turns; insert present; no flint installed; no current spark; not cleaned, fueled, or serviced for operation |
 
 ---
