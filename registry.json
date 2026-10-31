@@ -1,7 +1,7 @@
 {
   "collection": "Fort Wolters Archive",
-  "version": "1.0.4",
-  "last_updated": "2026-06-17",
+  "version": "1.0.5",
+  "last_updated": "2026-10-31",
   "total_artifacts": 1,
   "artifacts": [
     {
@@ -25,7 +25,19 @@
         "front_markings": "Class 65-9WA and Hughes World Leader marking",
         "current_spark_claim": false,
         "operation_claim": "No operation claim; no flint installed and not cleaned, fueled, or serviced for operation.",
-        "historical_significance": "Named Fort Wolters presentation lighter with TH-55A first-graduating-class inscription language, related VHPA class evidence, and later Tropic Lightning News service-context evidence."
+        "historical_significance": "Named Fort Wolters presentation lighter with TH-55A first-graduating-class inscription language, related VHPA class evidence, and later Tropic Lightning News service-context evidence.",
+        "insert_marking": "Maker and location only (Park Industries, Murfreesboro, Tennessee); no class marking on the insert",
+        "live_gallery_images": [
+          "photos/lighter-4.jpg",
+          "photos/lighter-5.jpg",
+          "photos/lighter-16.jpg",
+          "photos/lighter-13.jpg",
+          "photos/lighter-insert-closeup.jpg",
+          "photos/lighter-insert-open-view.jpg",
+          "photos/lighter-side-hinge.jpg",
+          "photos/pic_7_combined.jpg",
+          "photos/th55a-helicopter-reference.png"
+        ]
       },
       "evidence_categories": {
         "physical_object_evidence": [

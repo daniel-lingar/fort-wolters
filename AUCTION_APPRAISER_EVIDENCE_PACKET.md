@@ -2,7 +2,7 @@
 
 **Archive ID:** FW-ARC-0001  
 **Object:** 1965 Fort Wolters Class 65-9WA Presentation Lighter — Named to WOC Arthur P. Lancy Jr.  
-**Packet date:** June 2026  
+**Packet date:** October 2026  
 **Online evidence packet:** https://daniel-lingar.github.io/fort-wolters/heritage-consignment.html
 
 *This packet presents physical artifact evidence, separated historical context, curated object photography, and external archival cross-references for authentication review, category placement, and condition assessment.*
@@ -63,15 +63,16 @@
 
 ## 5. Object Photographs (Descriptions)
 
-*Curated object images. Full macro archive (33 reference images) available upon request: https://daniel-lingar.github.io/fort-wolters/photo-gallery.html*
+*Curated object images. Full 33-image reference archive: https://daniel-lingar.github.io/fort-wolters/photo-archive.html — the curated gallery is https://daniel-lingar.github.io/fort-wolters/photo-gallery.html*
 
 | Figure | Title | Caption |
 | :--- | :--- | :--- |
-| **Figure 1:** Obverse / Front | `assets/images/lighter-4.jpg` | Obverse/front view showing **Class 65-9WA** marking and **Hughes World Leader** helicopter insignia; primary object identification surface. |
-| **Figure 2:** Reverse Inscription | `assets/images/lighter-5.jpg` | Reverse inscription panel naming **WOC Arthur P. Lancy Jr.** and identifying the lighter as a 1965 Fort Wolters presentation piece for the first graduating class using the **Hughes TH-55A** helicopter. |
-| **Figure 3:** Alternate Obverse (hinge edge) | `assets/images/lighter-15.jpg` | Alternate obverse angle showing the lighter body, hinge edge, and front engraving; documents construction and surface wear. |
-| **Figure 4:** Open-lid / Mechanism | `assets/images/lighter-16.jpg` | Lid-open view showing the reverse inscription with flint striker wheel and chimney mechanism visible; confirms mechanical integrity in as-found state. |
-| **Figure 5:** Mechanical Detail / Manufacturer Stamp | `assets/images/lighter-13.jpg` | High-resolution mechanical detail documenting hinge area, striker wheel, chimney opening, chrome panel wear, and **PARK Lighter / MADE IN U.S.A.** manufacturer marking. |
+| **Figure 1:** Obverse / Front | `photos/lighter-4.jpg` | Obverse/front view showing **Class 65-9WA** marking and **Hughes World Leader** helicopter insignia; primary object identification surface. |
+| **Figure 2:** Reverse Inscription | `photos/lighter-5.jpg` | Reverse inscription panel naming **WOC Arthur P. Lancy Jr.** and identifying the lighter as a 1965 Fort Wolters presentation piece for the first graduating class using the **Hughes TH-55A** helicopter. |
+| **Figure 3:** Alternate Obverse (hinge edge) | `photos/lighter-15.jpg` | Alternate obverse angle showing the lighter body, hinge edge, and front engraving; documents construction and surface wear. |
+| **Figure 4:** Open-lid / Mechanism | `photos/lighter-16.jpg` | Lid-open view showing the reverse inscription with flint striker wheel and chimney mechanism visible; confirms mechanical integrity in as-found state. |
+| **Figure 5:** Maker Stamp | `photos/lighter-13.jpg` | Manufacturer marking **PARK Lighter / MADE IN U.S.A.** on the lighter body. |
+| **Figure 6:** Insert | `photos/lighter-insert-closeup.jpg` | Insert close-up: Park Industries, Murfreesboro only, no class marking on the insert — Class 65-9WA is on the obverse. |
 
 ---
 
@@ -81,10 +82,10 @@
 
 | Figure | Title | Caption |
 | :--- | :--- | :--- |
-| **Figure 6:** VHPA Class 65-9W Group Photo & Handwritten Roster | `assets/images/class-65-9w-group-photo-with-roster.jpg` | VHPA class group photograph with handwritten name roster directly below; supporting evidence for Class 65-9W training context and recipient placement. **Lancy** appears in the top row. |
-| **Figure 7:** Handwritten Roster Crop (Highlighting Lancy) | Detail of Figure 6 / `assets/images/class-roster.jpg` | Top-row detail of the VHPA handwritten roster highlighting **Lancy** (7th name, top row L-R); independent primary-source confirmation of recipient class placement. |
-| **Figure 8:** Hughes TH-55A Osage Reference Image | `assets/images/th55a-helicopter-reference.png` | Reference image of the Hughes TH-55A Osage, the primary helicopter trainer named in the lighter inscription; aircraft-context evidence only. |
-| **Figure 9:** Tropic Lightning News Air Medal Citation | `assets/images/tropic-lightning-news-1967-04-03.png` | *Tropic Lightning News*, Vol. 2 No. 13, Page 2 (April 3, 1967), listing **WO Arthur P. Lancy**, Co. B, 25th Avn. Bn. under Air Medal; **service-context evidence only**. |
+| **Figure 6:** VHPA Class 65-9W Group Photo & Handwritten Roster | `photos/pic_7_combined.jpg` | VHPA class group photograph with handwritten name roster directly below; supporting evidence for Class 65-9W training context and recipient placement. **Lancy** appears in the top row. |
+| **Figure 7:** Handwritten Roster Crop (Highlighting Lancy) | Detail of Figure 6 / `photos/class_roster_handwritten.jpg` | Top-row detail of the VHPA handwritten roster highlighting **Lancy** (7th name, top row L-R); independent primary-source confirmation of recipient class placement. |
+| **Figure 8:** Hughes TH-55A Osage Reference Image | `photos/th55a-helicopter-reference.png` | Reference image of the Hughes TH-55A Osage, the primary helicopter trainer named in the lighter inscription; aircraft-context evidence only. |
+| **Figure 9:** Tropic Lightning News Air Medal Citation | `photos/tropic-lightning-news-1967-04-03.png` | *Tropic Lightning News*, Vol. 2 No. 13, Page 2 (April 3, 1967), listing **WO Arthur P. Lancy**, Co. B, 25th Avn. Bn. under Air Medal; **service-context evidence only**. |
 
 **External source links (independent archives):**
 

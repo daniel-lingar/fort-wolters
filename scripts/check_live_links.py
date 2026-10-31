@@ -51,6 +51,14 @@ def check(url: str) -> int | str:
         return str(exc)
 
 
+EXTERNAL_SOURCES = [
+    "https://www.vhpa.org/wocpics/65-9w.jpg",
+    "https://www.vhpa.org/wocpics/65-9wnames.jpg",
+    "https://www.vhpa.org/wocpics/classpics.htm",
+    "https://www.25thida.org/TLN/tln2-13.htm",
+]
+
+
 def main() -> int:
     seen: set[str] = set()
     internal: list[tuple[str, str, str]] = []
@@ -79,7 +87,16 @@ def main() -> int:
             broken.append((source, kind, url, status))
 
     print(f"\nSummary: {len(internal) - len(broken)}/{len(internal)} OK")
-    return 1 if broken else 0
+    print("\nChecking external sources...\n")
+    ext_broken = []
+    for url in EXTERNAL_SOURCES:
+        status = check(url)
+        ok = isinstance(status, int) and status < 400
+        print(f"[{'OK' if ok else 'FAIL'}] {status} {url}")
+        if not ok:
+            ext_broken.append(url)
+    print(f"\nExternal: {len(EXTERNAL_SOURCES) - len(ext_broken)}/{len(EXTERNAL_SOURCES)} OK")
+    return 1 if broken or ext_broken else 0
 
 
 if __name__ == "__main__":
