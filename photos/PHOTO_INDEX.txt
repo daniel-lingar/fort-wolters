@@ -176,3 +176,9 @@ SKIPPED DUPLICATES (not in gallery):
 
    [SKIP duplicate] pic_7_helicopter_only.jpg
    Same as: helicopter_th55a.jpg
+---
+October 31, 2026 update (downsizing, not a deletion of evidence):
+- Curated gallery is 6 images, all in photos/: lighter-4 (obverse), lighter-5 (reverse), lighter-16 (mechanism, lid-open), lighter-13 (maker stamp), pic_7_combined (class photo + roster), helicopter_th55a.jpg (TH-55A reference). New Oct 31 photos (insert, side/hinge, sharper obverse/reverse) are held on branch review/photo-update-2026-10-31 and are NOT live yet — they need a binary push, which is not done in this main-ready pass.
+- assets/images/ is NOT deleted in this main-ready pass. Pages now point to photos/ for the main object images, so assets/ is orphaned but harmless. Deleting it requires a separate per-file delete, which is why it was left for later.
+- The full 33-image reference set above is preserved in photos/ for provenance, even though only 9 are shown in the gallery.
+- Space-named "lighter pics_p*.jpeg/png" files are legacy names; they still work and are left as-is to avoid breaking links. Renaming them is optional and must be done together with photo-archive.html.

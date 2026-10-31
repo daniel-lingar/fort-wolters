@@ -3,7 +3,7 @@
   "focus": "Company B, 25th Aviation Battalion (mid-1966 through mid-1967)",
   "primary_artifact": "FW-ARC-0001",
   "version": "1.0.0",
-  "last_updated": "2026-06-17",
+  "last_updated": "2026-10-31",
   "units": [
     {
       "id": "unit-25avn-b",
@@ -22,7 +22,9 @@
           "training_year": 1965,
           "training_location": "Fort Wolters, Texas",
           "service_unit": "Co. B, 25th Avn. Bn.",
-          "awards": ["Air Medal"],
+          "awards": [
+            "Air Medal"
+          ],
           "award_source": "Tropic Lightning News, Vol. 2 No. 13, April 3, 1967"
         }
       ]
